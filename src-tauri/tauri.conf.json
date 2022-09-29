@@ -33,6 +33,7 @@
         "save": true 
       }
     },
+    
     "systemTray": {
       "iconPath": "icons/32x32.png",
       "iconAsTemplate": true
@@ -66,8 +67,11 @@
       "targets": "all",
       "windows": {
         "certificateThumbprint": null,
-        "digestAlgorithm": "sha256",
-        "timestampUrl": ""
+        "digestAlgorithm":"sha256",
+        "timestampUrl": "",
+        "webviewInstallMode": {
+          "type": "offlineInstaller"
+        }
       }
     },
     "security": {

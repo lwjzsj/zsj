@@ -279,10 +279,10 @@ onUnmounted(() => {
   ctx.proxy.$OpenIM.off(CbEvents.ONRECVNEWMESSAGE, (value) => {});
   var oDiv = document.getElementById("chat_box");
   // 移除拖动文件监听
-  oDiv.removeEventListener("dragenter", () => {});
-  oDiv.removeEventListener("dragover", () => {});
-  oDiv.removeEventListener("dragover", () => {});
-  oDiv.removeEventListener("drop", () => {});
+  oDiv&&oDiv.removeEventListener("dragenter", () => {});
+  oDiv&&oDiv.removeEventListener("dragover", () => {});
+  oDiv&&oDiv.removeEventListener("dragover", () => {});
+  oDiv&&oDiv.removeEventListener("drop", () => {});
 });
 // 拖动文件发送
 function setDragListener() {

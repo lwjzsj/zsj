@@ -4,12 +4,10 @@ import axios, {
   AxiosRequestConfig,
   AxiosResponse,
 } from "axios";
-import { http } from "@tauri-apps/api";
 import md5 from "js-md5";
 import qs from "qs";
 import { uuid } from "vue-uuid";
 import { message } from "./alert";
-import { HttpVerb } from "@tauri-apps/api/http";
 
 // 数据返回的接口
 // 定义请求响应参数，不含data
@@ -43,7 +41,7 @@ class RequestHttp {
   service: AxiosInstance;
   public constructor(config: AxiosRequestConfig) {
     axios.defaults.withCredentials = true
-    config.withCredentials = true
+    config.withCredentials=true
     // 实例化axios
     this.service = axios.create(config);
 
@@ -54,7 +52,7 @@ class RequestHttp {
      */
     this.service.interceptors.request.use(
       (config: AxiosRequestConfig) => {
-        config.withCredentials = true//允许跨域
+        config.withCredentials=true//允许跨域
         const token = localStorage.getItem("token") || "";
         console.log(config)
         config.data.OperationID = md5(uuid.v4())
@@ -62,7 +60,7 @@ class RequestHttp {
           ...config,
           headers: {
             "token": token, // 请求头中携带token信息
-            'Content-Type': 'application/x-www-form-urlencoded',
+            'Content-Type':'application/x-www-form-urlencoded',
           },
         };
       },
@@ -92,7 +90,7 @@ class RequestHttp {
         }
         // 全局错误信息拦截（防止下载文件得时候返回数据流，没有code，直接报错）
         if (res.errCode && res.errCode !== 0) {
-
+          
           message.error(res.errMsg);
           return Promise.reject(res);
         }
@@ -103,9 +101,9 @@ class RequestHttp {
         const { response } = error;
         const { data, config } = response; // 解构
         const res = data as ResultData;
-        if (res.errCode !== 0) {
+        if (res.errCode!==0) {
           console.log(res.errMsg);
-          this.handleCode(res.errCode, res.errMsg);
+          this.handleCode(res.errCode,res.errMsg);
         }
         if (!window.navigator.onLine) {
           message.error("网络连接失败");
@@ -117,7 +115,7 @@ class RequestHttp {
       }
     );
   }
-  handleCode(code: number, msg?: string): void {
+  handleCode(code: number,msg?:string): void {
     switch (code) {
       case 401:
         message.error("登录失败，请重新登录");
@@ -129,55 +127,14 @@ class RequestHttp {
         break;
     }
   }
-  fetch<T>(url: string, type: HttpVerb, params?: object, header?: object):Promise<ResultData<T>>  {
-    
-    console.log("sss")
-    return new Promise((ok, err) => {
-      const token = localStorage.getItem("token") || "";
-      console.log(222)
-      http.fetch<ResultData<T>>(url, {
-        headers: {
-          ...header,
-          "token": token, // 请求头中携带token信息
-          'Content-Type': 'application/x-www-form-urlencoded',
-        },
-        method: type,
-        // 常规的json格式请求体发送
-        body: http.Body.json({
-          ...params,
-          OperationID: md5(uuid.v4())
-        })
-      }).then(res => {
-        console.log(res)
-        // res为请求成功的回调数据
-        if(res.status!=200){
-          err("网络错误")
-          return 
-        }else{
-          if(res.data.errCode!=0){
-            this.handleCode(res.data.errCode,res.data.errMsg);
-            err(res.data.errMsg)
-            return ;
-          }
-          ok(res.data);
-        }
-      }).catch(e=>{
-        console.log(e)
-      }).finally(()=>{
-        console.log("aaa")
-      });
-    })
-
-  }
 
   // 常用方法封装
   get<T>(url: string, params?: object): Promise<ResultData<T>> {
-    return this.fetch(url,"GET",params)
     return this.service.get(url, { params });
   }
-  post<T>(url: string, params?: object, config?: object): Promise<ResultData<T>> {
-    return this.fetch(url,"POST",params,config)
-    return this.service.post(url, params, config);
+  post<T>(url: string, params?: object,config?:AxiosRequestConfig): Promise<ResultData<T>> {
+    
+    return this.service.post(url, params,config);
   }
   put<T>(url: string, params?: object): Promise<ResultData<T>> {
     return this.service.put(url, params);
