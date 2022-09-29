@@ -1,0 +1,1 @@
+{"rustc":4276420980407004710,"features":"","target":0,"profile":0,"path":0,"deps":[[9338013776342158923,"build_script_build",false,4335480646869778170]],"local":[{"RerunIfChanged":{"output":"debug/build/haim_tauri-a54e3af8313ae560/output","paths":["tauri.conf.json"]}},{"RerunIfEnvChanged":{"var":"TAURI_CONFIG","val":null}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

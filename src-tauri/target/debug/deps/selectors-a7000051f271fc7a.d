@@ -1,0 +1,18 @@
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/selectors-a7000051f271fc7a.rmeta: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/attr.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/bloom.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/builder.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/context.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/matching.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/nth_index_cache.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/parser.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/sink.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/tree.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/visitor.rs /Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/build/selectors-a108a332bdb5ce9a/out/ascii_case_insensitive_html_attributes.rs
+
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/selectors-a7000051f271fc7a.d: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/attr.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/bloom.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/builder.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/context.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/matching.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/nth_index_cache.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/parser.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/sink.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/tree.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/visitor.rs /Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/build/selectors-a108a332bdb5ce9a/out/ascii_case_insensitive_html_attributes.rs
+
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/lib.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/attr.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/bloom.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/builder.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/context.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/matching.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/nth_index_cache.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/parser.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/sink.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/tree.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/selectors-0.22.0/visitor.rs:
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/build/selectors-a108a332bdb5ce9a/out/ascii_case_insensitive_html_attributes.rs:
+
+# env-dep:OUT_DIR=/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/build/selectors-a108a332bdb5ce9a/out

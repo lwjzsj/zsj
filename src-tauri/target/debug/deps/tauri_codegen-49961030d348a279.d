@@ -1,0 +1,11 @@
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/tauri_codegen-49961030d348a279.rmeta: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/context.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/embedded_assets.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/vendor/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/vendor/blake3_reference.rs
+
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/libtauri_codegen-49961030d348a279.rlib: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/context.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/embedded_assets.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/vendor/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/vendor/blake3_reference.rs
+
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/tauri_codegen-49961030d348a279.d: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/context.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/embedded_assets.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/vendor/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/vendor/blake3_reference.rs
+
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/lib.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/context.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/embedded_assets.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/vendor/mod.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-codegen-1.0.4/src/vendor/blake3_reference.rs:

@@ -1,0 +1,11 @@
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/libtauri_macros-2304ab4d85740706.dylib: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/command/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/command/handler.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/command/wrapper.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/command_module.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/runtime.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/context.rs
+
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/tauri_macros-2304ab4d85740706.d: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/command/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/command/handler.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/command/wrapper.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/command_module.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/runtime.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/context.rs
+
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/lib.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/command/mod.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/command/handler.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/command/wrapper.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/command_module.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/runtime.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/tauri-macros-1.0.4/src/context.rs:

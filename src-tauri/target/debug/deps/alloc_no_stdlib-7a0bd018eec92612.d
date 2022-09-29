@@ -1,0 +1,10 @@
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/alloc_no_stdlib-7a0bd018eec92612.rmeta: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/index_macro.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/stack_allocator.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_stack_memory.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/init.rs
+
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/alloc_no_stdlib-7a0bd018eec92612.d: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/index_macro.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/stack_allocator.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_stack_memory.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/init.rs
+
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/lib.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/mod.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_memory/index_macro.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/stack_allocator.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/allocated_stack_memory.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.3/src/init.rs:

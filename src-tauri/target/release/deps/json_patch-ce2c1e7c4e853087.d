@@ -1,0 +1,8 @@
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/release/deps/json_patch-ce2c1e7c4e853087.rmeta: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/json-patch-0.2.6/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/json-patch-0.2.6/src/diff.rs
+
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/release/deps/libjson_patch-ce2c1e7c4e853087.rlib: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/json-patch-0.2.6/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/json-patch-0.2.6/src/diff.rs
+
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/release/deps/json_patch-ce2c1e7c4e853087.d: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/json-patch-0.2.6/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/json-patch-0.2.6/src/diff.rs
+
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/json-patch-0.2.6/src/lib.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/json-patch-0.2.6/src/diff.rs:

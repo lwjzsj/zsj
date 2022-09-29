@@ -1,0 +1,13 @@
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/semver-062a46c969cc647d.rmeta: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/backport.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/display.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/error.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/eval.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/identifier.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/impls.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/parse.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/serde.rs
+
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/semver-062a46c969cc647d.d: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/backport.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/display.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/error.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/eval.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/identifier.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/impls.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/parse.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/serde.rs
+
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/lib.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/backport.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/display.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/error.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/eval.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/identifier.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/impls.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/parse.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.13/src/serde.rs:

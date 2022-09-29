@@ -1,0 +1,12 @@
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/release/deps/libthiserror_impl-8fe84342651de523.dylib: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/ast.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/attr.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/expand.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/fmt.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/generics.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/prop.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/valid.rs
+
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/release/deps/thiserror_impl-8fe84342651de523.d: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/ast.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/attr.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/expand.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/fmt.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/generics.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/prop.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/valid.rs
+
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/lib.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/ast.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/attr.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/expand.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/fmt.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/generics.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/prop.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.34/src/valid.rs:

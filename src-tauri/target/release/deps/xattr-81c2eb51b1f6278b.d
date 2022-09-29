@@ -1,0 +1,12 @@
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/release/deps/xattr-81c2eb51b1f6278b.rmeta: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/macos.rs
+
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/release/deps/libxattr-81c2eb51b1f6278b.rlib: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/macos.rs
+
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/release/deps/xattr-81c2eb51b1f6278b.d: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/macos.rs
+
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/macos.rs:

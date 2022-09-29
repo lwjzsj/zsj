@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Volumes/data/huian/win/haim_tauri/src-tauri/target/release/build/typenum-b8bde85bdc59e77a/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Volumes/data/huian/win/haim_tauri/src-tauri/target/release/build/typenum-b8bde85bdc59e77a/out/op.rs

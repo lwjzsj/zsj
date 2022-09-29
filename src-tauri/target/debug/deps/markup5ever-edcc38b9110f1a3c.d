@@ -1,0 +1,15 @@
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/markup5ever-edcc38b9110f1a3c.rmeta: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/data/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/tree_builder.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/serialize.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/buffer_queue.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/smallcharset.rs /Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/build/markup5ever-2e6054513041b030/out/generated.rs /Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/build/markup5ever-2e6054513041b030/out/named_entities.rs
+
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/markup5ever-edcc38b9110f1a3c.d: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/data/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/mod.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/tree_builder.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/serialize.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/buffer_queue.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/smallcharset.rs /Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/build/markup5ever-2e6054513041b030/out/generated.rs /Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/build/markup5ever-2e6054513041b030/out/named_entities.rs
+
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/lib.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/data/mod.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/mod.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/tree_builder.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/serialize.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/buffer_queue.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/smallcharset.rs:
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/build/markup5ever-2e6054513041b030/out/generated.rs:
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/build/markup5ever-2e6054513041b030/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/build/markup5ever-2e6054513041b030/out

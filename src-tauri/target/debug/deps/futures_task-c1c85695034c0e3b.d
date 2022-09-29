@@ -1,0 +1,11 @@
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/futures_task-c1c85695034c0e3b.rmeta: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/spawn.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/arc_wake.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker_ref.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/future_obj.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/noop_waker.rs
+
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/futures_task-c1c85695034c0e3b.d: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/spawn.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/arc_wake.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker_ref.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/future_obj.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/noop_waker.rs
+
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/lib.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/spawn.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/arc_wake.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/waker_ref.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/future_obj.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.24/src/noop_waker.rs:

@@ -1,0 +1,17 @@
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/cssparser-c708998b5148b5e6.rmeta: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/macros.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/rules_and_declarations.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/color.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/cow_rc_str.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/from_bytes.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/nth.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/parser.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/serializer.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/unicode_range.rs /Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/build/cssparser-48eebaae0ac0f344/out/tokenizer.rs
+
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/deps/cssparser-c708998b5148b5e6.d: /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/lib.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/macros.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/rules_and_declarations.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/color.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/cow_rc_str.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/from_bytes.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/nth.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/parser.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/serializer.rs /Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/unicode_range.rs /Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/build/cssparser-48eebaae0ac0f344/out/tokenizer.rs
+
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/lib.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/macros.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/rules_and_declarations.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/color.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/cow_rc_str.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/from_bytes.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/nth.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/parser.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/serializer.rs:
+/Users/lwjzsj/.cargo/registry/src/github.com-1ecc6299db9ec823/cssparser-0.27.2/src/unicode_range.rs:
+/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/build/cssparser-48eebaae0ac0f344/out/tokenizer.rs:
+
+# env-dep:OUT_DIR=/Volumes/data/huian/win/haim_tauri/src-tauri/target/debug/build/cssparser-48eebaae0ac0f344/out
